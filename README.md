@@ -2,8 +2,7 @@
 Creating a 3D LEGO Phantom using 3D Slicer
 
 Requirements:
-You need the CT data of LEGO to make a 3D model of the Phantom.
-!\vspace{5mm}
+You need the LEGO CT data to make a 3D model of the Phantom.
 
 ![capture](https://user-images.githubusercontent.com/42282006/53990835-301fc900-40f7-11e9-9c35-7d0797975301.PNG)
 
